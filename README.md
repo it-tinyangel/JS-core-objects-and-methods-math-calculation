@@ -2,4 +2,4 @@
 
 # Objects and Methods. Math Calculate
 
-Creating a MyMath object with properties a and b, and methods for performing mathematical operations with them and outputting the results to the console.
+Creating a MyMath object with properties a and b, and methods for performing math operations with them and outputting the results to the console.
