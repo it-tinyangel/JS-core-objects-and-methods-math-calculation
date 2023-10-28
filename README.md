@@ -1,4 +1,4 @@
-# Module 3. JS Core. Lesson 7. Test 2.
+# Module 3. JS Core. Lesson 7. Task 2.
 
 # Objects and Methods. Math Calculate
 
